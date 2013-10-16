@@ -30,9 +30,9 @@ Verkefnið er á [github.com](https://github.com/KristinnArdal/INTOPrufa/ "INTOP
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
-  * Audacity GPL [Source code](audacity.sourceforge.net/download/source/ "Audacity source code")
-  * Ubuntu GPL [Source code](archive.ubuntu.com/ "Ubuntu source code")
-  * Notepad++ GPL [Source sode](sourceforge.net/projects/notepad-plus/ "Notepad++ souce code")
+  * Audacity GPL [Source code](http://audacity.sourceforge.net/download/source/ "Audacity source code")
+  * Ubuntu GPL [Source code](http://archive.ubuntu.com/ "Ubuntu source code")
+  * Notepad++ GPL [Source sode](http://sourceforge.net/projects/notepad-plus/ "Notepad++ souce code")
 
 ## 5. Unnið með Git (2. hluti)
 
